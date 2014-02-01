@@ -1,0 +1,10 @@
+{
+  "name": "jqGoogleForms",
+  "version": "1.0.0",
+  "dependencies": {
+  	"jquery": ">=1.7.1"
+  },
+  "devDependencies": {
+    "jquery": ">=1.7.1"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "jqGoogleForms",
+  "version": "1.0.0",
+  "title": "jQuery Google Form Submission",
+  "description": "A demonstration of a method to submit Google Forms using AJAX.",
+  "keywords": [
+    "jquery",
+    "upload",
+    "cross-domain",
+    "cross-site",
+    "google",
+    "forms",
+    "AJAX"
+  ],
+  "homepage": "https://github.com/kctess5/jqGoogleForms",
+  "author": {
+    "name": "Corey Walsh",
+    "url": "http://hzldv.com"
+  },
+  "maintainers": [
+    {
+      "name": "Corey Walsh",
+      "url": "http://hzldv.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kctess5/jqGoogleForms.git"
+  },
+  "bugs": "https://github.com/kctess5/jqGoogleForms/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.1"
+  }
+}

@@ -70,7 +70,7 @@ A minimal HTML structure for submitting a form may like this:
 var googleForm = $(window).jqGoogleForms({"formKey": "YOUR FORM KEY"});
 
 googleForm.sendFormData({
-    "entry.1313128433": email
+    "entry.1234567890": "data"
 });
 </script>
 ```

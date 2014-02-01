@@ -22,9 +22,9 @@ Create a Google Form by clicking "CREATE" -> "Form" at http://drive.google.com, 
 docs.google.com/forms/d/ (YOUR FORM KEY) /edit
 
 Download the [production version][min] or the [development version][max] and include it after jQuery. Example:
-
+```html
 <script type="text/javascript" src="js/jquery.jqgoogleforms.min.js"></script>
-
+```
 Then attach the main method of the plugin to an element, and store that in a variable for ease of use:
 
 ```javascript

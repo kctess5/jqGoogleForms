@@ -32,10 +32,15 @@ var googleForm = $(window).jqGoogleForms({"formKey": "YOUR FORM KEY"});
 ```
 
 To send the form, you must find the name of each field you wish to submit. To find these: 
+
 1. Open Chrome (or another browser that can view source) 
+
 2. View your form live 
+
 3. On each form input or text area there will be a "name" attribute, set to something like "entry.1234567890" 
+
 4. Gather all of these names, and keep in mind which field they are associated with 
+
 5. Use the "sendFormData" method, passing in an object containing all of the data you wish to send in the format of {name:data,name:data} 
 
 ```javascript

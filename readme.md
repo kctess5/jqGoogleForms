@@ -7,6 +7,8 @@ Version: 1.0.0 (2014-02-1)
 
 MIT Licensed (http://www.opensource.org/licenses/mit-license.php)
 
+Like this plugin? Let me know, the feedback is great! Shoot me an email: corey@hzldv.com
+
 ## DISCLAIMER ##
 
 This plugin is in no way created nor endorsed by Google Inc. 

@@ -2,7 +2,7 @@
 
 A demonstration of a method to submit Google Forms using AJAX. 
 
-Author: Corey Walsh (http://hzldv.com)
+Author: Corey Walsh (http://rayban.vision)
 Version: 1.0.0 (2014-02-1)
 
 MIT Licensed (http://www.opensource.org/licenses/mit-license.php)
@@ -84,7 +84,7 @@ jqGoogleForm does not do any input sanitization, so be sure to do that in your j
 **NOTE: The console will log a XXS error, however this DOES NOT mean that the request failed. Go ahead and look for yourself at your form submission data...**
 
 ## Support ##
-Contact me through my site http://hzldv.com if you encounter issues. I will try to fix them and update code if necessary.
+Contact me through my site http://rayban.vision/#contact if you encounter issues. I will try to fix them and update code if necessary.
 
 ## Release History ##
 

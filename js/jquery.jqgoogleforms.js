@@ -24,7 +24,7 @@
     function jqGoogleForms( element, customOptions ) {
         options = $.extend( {}, defaults, customOptions) ;
         if (options.formKey){
-            options["url"] = "https://docs.google.com/forms/d/" + options.formKey + "/viewform?embedded=true"
+            options["url"] = "https://docs.google.com/forms/d/e/" + options.formKey + "/viewform?embedded=true"
         }   
     }
 
@@ -46,7 +46,7 @@
     $.fn[pluginName]().sendFormData = function(data){ //appends to main function, reduce namespace footprint
         if (options.formKey) {
             $.ajax({
-                url: "https://docs.google.com/forms/d/" + options.formKey + "/formResponse",
+                url: "https://docs.google.com/forms/d/e/" + options.formKey + "/formResponse",
                 data: data,
                 type: "POST",
                 dataType: "xml"
